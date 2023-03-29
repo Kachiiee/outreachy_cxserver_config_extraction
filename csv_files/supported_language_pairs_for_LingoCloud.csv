@@ -1,0 +1,11 @@
+SOURCE LANGUAGE,TARGET LANGUAGE,TRANSLATION ENGINE,IS PREFERRED ENGINE?
+en,wuu,LingoCloud,False
+en,zh,LingoCloud,False
+ja,wuu,LingoCloud,False
+ja,zh,LingoCloud,False
+simple,wuu,LingoCloud,False
+simple,zh,LingoCloud,False
+zh,en,LingoCloud,False
+zh,ja,LingoCloud,False
+zh,simple,LingoCloud,False
+zh,wuu,LingoCloud,False

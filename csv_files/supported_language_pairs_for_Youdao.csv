@@ -1,0 +1,25 @@
+SOURCE LANGUAGE,TARGET LANGUAGE,TRANSLATION ENGINE,IS PREFERRED ENGINE?
+en,zh,Youdao,False
+en,wuu,Youdao,False
+es,zh,Youdao,False
+es,wuu,Youdao,False
+fr,zh,Youdao,False
+fr,wuu,Youdao,False
+ja,zh,Youdao,False
+ja,wuu,Youdao,False
+ko,zh,Youdao,False
+ko,wuu,Youdao,False
+pt,zh,Youdao,False
+pt,wuu,Youdao,False
+ru,zh,Youdao,False
+ru,wuu,Youdao,False
+simple,zh,Youdao,False
+simple,wuu,Youdao,False
+zh,es,Youdao,False
+zh,fr,Youdao,False
+zh,ja,Youdao,False
+zh,ko,Youdao,False
+zh,pt,Youdao,False
+zh,ru,Youdao,False
+zh,simple,Youdao,False
+zh,wuu,Youdao,False

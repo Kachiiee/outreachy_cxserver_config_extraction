@@ -1,0 +1,4 @@
+SOURCE LANGUAGE,TARGET LANGUAGE,TRANSLATION ENGINE,IS PREFERRED ENGINE?
+ca,es,JsonDict,False
+en,es,JsonDict,False
+es,ca,JsonDict,False
